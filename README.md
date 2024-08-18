@@ -1,6 +1,8 @@
-## Hi there 👋
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Purnima-Vats.Purnima-Vats" />
+
 
 <!--
+## Hi there 👋
 **Purnima-Vats/Purnima-Vats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
