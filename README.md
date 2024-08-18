@@ -60,7 +60,7 @@
   <img width="48%" src="https://github-readme-streak-stats-bice.vercel.app?user=Purnima-Vats&theme=react" alt="GitHub Streak" alt="streak stats"/>
   <img width="48%" align="right" src="https://github-readme-stats-xi-two-99.vercel.app/api?username=purnima-vats&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-purnima-vats.vercel.app/api/top-langs/?username=purnima-vats&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width="full" align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Purnima-Vats&theme=react-dark" alt="activity graph" />
 </div>
 
 <!--
