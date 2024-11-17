@@ -10,13 +10,13 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a discord clone**
+ 🔭 I’m currently working on **Problem Solving Skills**
  
- 🌱 I’m currently learning **socket.io, MySQL**
+ 🌱 I’m currently learning **DSA**
 
 💬 Ask me about **Next.js, TypeScript, Prisma... or anything [here](https://github.com/purnima-vats/purnima-vats/issues)**
 
-⚡ Fun fact **One Piece was originally called Romance Dawn**
+⚡ Fun fact **The first computer programmer was a woman: Ada Lovelace**
 
 </div>
  
