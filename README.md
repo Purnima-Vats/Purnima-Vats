@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Problem Solving Skills**
+ 🔭 I’m currently working on **Problem Solving**
  
- 🌱 I’m currently learning **DSA**
+ 🌱 I’m currently learning **Machine Learning**
 
 💬 Ask me about **Next.js, TypeScript, Prisma... or anything [here](https://github.com/purnima-vats/purnima-vats/issues)**
 
